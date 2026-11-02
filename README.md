@@ -1,6 +1,6 @@
 # Bangla IPTV
 
-Auto-updated M3U playlist and EPG of Bangladeshi TV channels, built from the [iptv-org](https://github.com/iptv-org/iptv) database. Indian channels are excluded, and dead streams are removed daily.
+Auto-updated M3U playlist and EPG of Bangladeshi TV channels, built from the [iptv-org](https://github.com/iptv-org/iptv) database. Dead streams are removed daily.
 
 ## Usage
 
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/ishtee/bangla-iptv/main/epg.xml
 
 ## How it works
 
-A GitHub Action runs `build_bd_playlist.py` every day, checks each stream, and commits the updated files.
+Runs every day, checks each stream, and commits the updated files.
 
 ## Disclaimer
 
