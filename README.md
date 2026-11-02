@@ -6,7 +6,7 @@ Auto-updated M3U playlist and EPG of Bangladeshi TV channels, built from the [ip
 
 Add this URL as a playlist in any IPTV player:
 
-https://raw.githubusercontent.com/ishtee/bangla-iptv/main/bangladesh.m3u
+https://raw.githubusercontent.com/ishtee/bangla-iptv/main/bangla-iptv.m3u
 
 EPG (placeholder guide):
 
