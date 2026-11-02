@@ -2,7 +2,7 @@
 """Build a Bangladesh-only M3U + placeholder XMLTV EPG from iptv-org's API.
 
 Run:  pip install requests && python build_bd_playlist.py
-Outputs: bangladesh.m3u, epg.xml
+Outputs: bangla-iptv.m3u, epg.xml
 NOTE: written against the iptv-org API schema as I know it; if a field
 name has changed, adjust the keys below.
 """
@@ -69,7 +69,7 @@ for s in picked:
     if s.get("referrer"):
         lines.append(f'#EXTVLCOPT:http-referrer={s["referrer"]}')
     lines.append(s["url"])
-open("bangladesh.m3u", "w", encoding="utf-8").write("\n".join(lines) + "\n")
+open("bangla-iptv.m3u", "w", encoding="utf-8").write("\n".join(lines) + "\n")
 
 # --- placeholder XMLTV: 2-hour "Live" blocks so the guide grid isn't empty ---
 fmt = "%Y%m%d%H%M%S +0000"
