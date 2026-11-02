@@ -2,7 +2,7 @@ name: Update Bangladesh playlist
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # daily, 18:00 UTC (~5am Melbourne)
+    - cron: "40 10 * * *"  # daily, 10:40 UTC = 9:40pm Melbourne (AEDT)
   workflow_dispatch:        # manual "Run workflow" button
 
 permissions:
