@@ -2,7 +2,7 @@ name: Update Bangladesh playlist
 
 on:
   schedule:
-    - cron: "40 10 * * *"  # daily, 10:40 UTC = 9:40pm Melbourne (AEDT)
+    - cron: "45 10 * * *"  # daily, 10:40 UTC = 9:40pm Melbourne (AEDT)
   workflow_dispatch:        # manual "Run workflow" button
 
 permissions:
@@ -23,11 +23,11 @@ jobs:
       - name: Build playlist and EPG
         run: |
           python build_bd_playlist.py
-          sed -i "s#https://YOUR-HOST/epg.xml#https://raw.githubusercontent.com/${{ github.repository }}/main/epg.xml#" bangladesh.m3u
+          sed -i "s#https://YOUR-HOST/epg.xml#https://raw.githubusercontent.com/${{ github.repository }}/main/epg.xml#" bangla-iptv.m3u
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add bangladesh.m3u epg.xml
+          git add bangla-iptv.m3u epg.xml
           git diff --staged --quiet || (git commit -m "Update playlist" && git push)
