@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/ishtee/bangla-iptv/main/bangla-iptv-epg.xml
 
 Runs every day, checks each stream, and commits the updated files.
 
-## Disclaimer
+## Legal Notice
+This project does not host or distribute any media content.  
+All stream URLs are publicly available third‑party links.
 
-This repo only links to publicly available streams and does not host any video content. Stream availability depends on the channel owners.
+For full legal terms, please see the [DISCLAIMER.md](./DISCLAIMER.md).
+
