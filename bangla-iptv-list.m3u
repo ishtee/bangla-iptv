@@ -13,8 +13,6 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/2Lzhiq6.png" group-title="general",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd" tvg-name="Green TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="family",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" tvg-logo="https://i.imgur.com/uVZJMed.png" group-title="entertainment",Maasranga TV
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-name="Madani Channel Bangla" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="religious",Madani Channel Bangla
@@ -37,3 +35,7 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="general",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+#EXTINF:-1 tvg-id="RupashiBanglaTV.bd" tvg-name="Rupashi Bangla TV" tvg-logo="https://i.imgur.com/9idHs20.png" group-title="entertainment",Rupashi Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="StarNews.bd" tvg-name="Star News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/1280px-Star_News_Bangladesh_Logo.svg.png" group-title="General",Star News
+http://103.135.253.32:8080/Star-News/index.m3u8
