@@ -11,6 +11,7 @@
 <channel id="MaasrangaTV.bd"><display-name>Maasranga TV</display-name></channel>
 <channel id="MadaniChannelBangla.bd"><display-name>Madani Channel Bangla</display-name></channel>
 <channel id="MatribhumiTV.bd"><display-name>Matribhumi TV</display-name></channel>
+<channel id="MovieBangla.bd"><display-name>Movie Bangla</display-name></channel>
 <channel id="MyTV.bd"><display-name>My TV</display-name></channel>
 <channel id="NANTV.bd"><display-name>NAN TV</display-name></channel>
 <channel id="News21BanglaTV.bd"><display-name>News 21 Bangla TV</display-name></channel>
@@ -18,18 +19,6 @@
 <channel id="NTV.bd"><display-name>NTV</display-name></channel>
 <channel id="RajdhaniTV.bd"><display-name>Rajdhani TV</display-name></channel>
 <channel id="RTV.bd"><display-name>RTV</display-name></channel>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
@@ -42,18 +31,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="AnandaTV.bd"><title>Ananda TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
@@ -66,18 +55,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="ATNBangla.bd"><title>ATN Bangla Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
@@ -90,18 +79,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="BanglaVision.bd"><title>Bangla Vision Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
@@ -114,18 +103,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="BoishakhiTV.bd"><title>Boishakhi TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
@@ -138,18 +127,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="ChannelS.bd"><title>Channel S Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
@@ -162,18 +151,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="DurontoTV.bd"><title>Duronto TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
@@ -186,18 +175,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="EkusheyTV.bd"><title>Ekushey TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
@@ -210,18 +199,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="GaziTV.bd"><title>Gazi TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
@@ -234,18 +223,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="MaasrangaTV.bd"><title>Maasranga TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
@@ -258,18 +247,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="MadaniChannelBangla.bd"><title>Madani Channel Bangla Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
@@ -282,18 +271,42 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="MatribhumiTV.bd"><title>Matribhumi TV Live</title></programme>
+<programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118080000 +0000" stop="20261118100000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118100000 +0000" stop="20261118120000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118120000 +0000" stop="20261118140000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118140000 +0000" stop="20261118160000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118160000 +0000" stop="20261118180000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118180000 +0000" stop="20261118200000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="MovieBangla.bd"><title>Movie Bangla Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
@@ -306,18 +319,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="MyTV.bd"><title>My TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
@@ -330,18 +343,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="NANTV.bd"><title>NAN TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
@@ -354,18 +367,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="News21BanglaTV.bd"><title>News 21 Bangla TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
@@ -378,18 +391,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="NexusTV.bd"><title>Nexus TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
@@ -402,18 +415,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="NTV.bd"><title>NTV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
@@ -426,18 +439,18 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117040000 +0000" stop="20261117060000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117060000 +0000" stop="20261117080000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117080000 +0000" stop="20261117100000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117100000 +0000" stop="20261117120000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117120000 +0000" stop="20261117140000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117140000 +0000" stop="20261117160000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117160000 +0000" stop="20261117180000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117180000 +0000" stop="20261117200000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117200000 +0000" stop="20261117220000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261117220000 +0000" stop="20261118000000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
-<programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="RajdhaniTV.bd"><title>Rajdhani TV Live</title></programme>
 <programme start="20261118020000 +0000" stop="20261118040000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
 <programme start="20261118040000 +0000" stop="20261118060000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
 <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
@@ -450,4 +463,16 @@
 <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
 <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
 <programme start="20261119000000 +0000" stop="20261119020000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119040000 +0000" stop="20261119060000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119100000 +0000" stop="20261119120000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119120000 +0000" stop="20261119140000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119180000 +0000" stop="20261119200000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119200000 +0000" stop="20261119220000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261119220000 +0000" stop="20261120000000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
+<programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="RTV.bd"><title>RTV Live</title></programme>
 </tv>
